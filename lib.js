@@ -1,37 +1,4 @@
-var ctx;
-var WIDTH;
-var HEIGHT;
-
-var dx = 20;
-var dy = 20;
-var dr = 10;
-
-// 0: left
-// 1: up
-// 2: right
-// 3: down
-var direction;
-
-var snake;
-var size;
-
-var food;
-
-var id;
-
-function init() {
-  ctx = $('#canvas')[0].getContext("2d");
-  WIDTH = $("#canvas").width();
-  HEIGHT = $("#canvas").height();
-
-  createsnake();
-  newfood();
-
-  direction = 0;
-  size = 1;
-
-  id = setInterval(step, 100);
-}
+// library of all functions
 
 function onKeyDown(evt) {
   newdir = evt.keyCode - 37;
