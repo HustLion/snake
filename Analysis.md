@@ -1,5 +1,20 @@
-# Snake
-This is a browser-based game using html and javascript.
+# learnt- Snake - Web
+Browser based, really simple game as a start: [Snake](https://github.com/HustLion/snake), with this [tutorial](http://billmill.org/static/canvastutorial/index.html) which refers to more advanced material about [collision](http://www.metanetsoftware.com/technique/tutorialA.html). 
+
+Some good resources: 
+* [Web Reference](http://www.webreference.com/)
+* [Mozilla Canvas Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial), which links to [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) tutorials, really helpful.
+* [CodeMirror](http://codemirror.net/): CodeMirror is a versatile text editor implemented in JavaScript for the browser.
+* [Firebug](http://getfirebug.com/): an essential tool for any javascript developer. 
+* [jQuery UI](http://jqueryui.com/)
+* [jQuery](http://jquery.com/)
+* [Mako](http://www.makotemplates.org/): Mako is a template library written in Python.
+
+Tool:
+* Eclipse
+* HTML Editor (WTP) Luna
+* Firefox
+
 
 I use *Eclipse* with the plugin *HTML Editor (WTP) Luna* and *Firefox* to learn and develop it.
 
